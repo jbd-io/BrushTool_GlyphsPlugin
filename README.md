@@ -22,11 +22,9 @@ After installation, it will appear in the toolbar with a brush icon.
 2. Select the **Brush Tool** from the toolbar.
 3. Click and drag in the editor to draw freely.
 
-![Demo](Demo_brushtool.gif "BrushTool Demo")
-
 The tool produces **flat, monoline strokes** with square-cut endings, following your movements for clear, calligraphic forms and bold shapes.
 
-![Using the Brush Tool in Edit View.](BrushTool.png "BrushTool in action")
+![Demo](Demo_brushtool.gif "BrushTool Demo")
 
 
 ### Brush Tool Palette
@@ -38,6 +36,8 @@ The Brush Tool includes a palette to fine-tune your stroke:
   Higher values produce smoother contours; lower values retain more gesture and hand-drawn character.
 
 With these controls, the Brush Tool adapts to your creative process, from rough exploration to clean shape construction.
+
+![Using the Brush Tool in Edit View.](BrushTool.png "BrushTool in action")
 
 
 ### Requirements
@@ -84,11 +84,9 @@ Une fois installé, l’outil apparaît dans la barre d’outils avec une icône
 2. Sélectionnez l’outil **Pinceau** dans la barre d’outils.  
 3. Cliquez et faites glisser pour dessiner librement des contours.
 
-![Demo](Demo_brushtool.gif "BrushTool Demo")
-
 L’outil génère des **tracés plats, monolinéaires**, avec une terminaison nette et carrée, parfaits pour des formes expressives et structurées.
 
-![Utilisation du Brush Tool dans la vue Édition.](BrushTool.png "BrushTool en action")
+![Demo](Demo_brushtool.gif "BrushTool Demo")
 
 
 ### Palette de l’outil Pinceau
@@ -100,6 +98,8 @@ Le BrushTool est fourni avec une palette permettant d’ajuster précisément l�
   Des valeurs élevées donnent un rendu doux et régulier ; des valeurs faibles restituent davantage les gestes de la main.
 
 Ces options permettent de passer aisément d’un dessin spontané à une mise au propre soignée, selon vos besoins.
+
+![Utilisation du Brush Tool dans la vue Édition.](BrushTool.png "BrushTool en action")
 
 
 ### Configuration requise
