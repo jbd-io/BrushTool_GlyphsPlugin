@@ -24,8 +24,6 @@ After installation, it will appear in the toolbar with a brush icon.
 
 ![Demo](Demo_brushtool.gif "BrushTool Demo")
 
-!(BrushTool.png "BrushTool demo")
-
 The tool produces **flat, monoline strokes** with square-cut endings, following your movements for clear, calligraphic forms and bold shapes.
 
 ![Using the Brush Tool in Edit View.](BrushTool.png "BrushTool in action")
