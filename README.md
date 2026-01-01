@@ -1,6 +1,6 @@
 # 🖌️ BrushTool (EN) 
 
-This is a plugin for the [Glyphs font editor](http://glyphsapp.com/) by Georg Seifert.  
+This is a plugin for the [Glyphs font editor](http://glyphsapp.com/).  
 It adds a custom **Flat Brush Tool** to Glyphs, providing a broad, fixed-width stroke with sharp, **square endings**.  
 The Brush Tool is ideal for calligraphic sketching, brush-inspired lettering, or any typographic work that benefits from a wide, monoline brush texture.  
 Stroke **thickness** and **smoothing** can be adjusted through the companion palette.  
@@ -70,7 +70,7 @@ This plugin is free to use. If it saves you time or makes your work easier, cons
 
 # 🖌️ BrushTool (FR)
 
-BrushTool est une extension pour l’éditeur de polices [Glyphs](http://glyphsapp.com/) développé par Georg Seifert.  
+BrushTool est une extension pour l’éditeur de polices [Glyphs](http://glyphsapp.com/).  
 Elle ajoute à Glyphs un **pinceau plat** à largeur fixe, générant des tracés épais et réguliers, avec des **extrémités carrées** au lieu d’être arrondies.  
 Le BrushTool est adapté au croquis calligraphique, au lettrage inspiré des pinceaux plats, et à la création de formes typographiques audacieuses.  
 Vous pouvez ajuster l’**épaisseur** et le **lissage** depuis la palette intégrée.  
