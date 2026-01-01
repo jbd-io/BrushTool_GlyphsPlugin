@@ -22,6 +22,8 @@ After installation, it will appear in the toolbar with a brush icon.
 2. Select the **Brush Tool** from the toolbar.
 3. Click and drag in the editor to draw freely.
 
+![Demo](Demo_brushtool.gif "BrushTool Demo")
+
 !(BrushTool.png "BrushTool demo")
 
 The tool produces **flat, monoline strokes** with square-cut endings, following your movements for clear, calligraphic forms and bold shapes.
@@ -84,7 +86,7 @@ Une fois installé, l’outil apparaît dans la barre d’outils avec une icône
 2. Sélectionnez l’outil **Pinceau** dans la barre d’outils.  
 3. Cliquez et faites glisser pour dessiner librement des contours.
 
-!(BrushTool.png "BrushTool demo")
+![Demo](Demo_brushtool.gif "BrushTool Demo")
 
 L’outil génère des **tracés plats, monolinéaires**, avec une terminaison nette et carrée, parfaits pour des formes expressives et structurées.
 
