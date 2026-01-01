@@ -1,13 +1,12 @@
 # 🖌️ BrushTool (EN) 
 
+![Tool preview](BrushToolCover.png "BrushTool cover")
+
 This is a plugin for the [Glyphs font editor](http://glyphsapp.com/).  
 It adds a custom **Flat Brush Tool** to Glyphs, providing a broad, fixed-width stroke with sharp, **square endings**.  
 The Brush Tool is ideal for calligraphic sketching, brush-inspired lettering, or any typographic work that benefits from a wide, monoline brush texture.  
 Stroke **thickness** and **smoothing** can be adjusted through the companion palette.  
 After installation, it will appear in the toolbar with a brush icon.
-
-![Tool preview](BrushToolCover.png "BrushTool cover")
-
 
 ## Installation
 
